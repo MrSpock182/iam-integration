@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: iam-integration
+
+aws:
+  accessKeyId: ***
+  secretAccessKey: ***
+  region: us-east-1
